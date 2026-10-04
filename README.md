@@ -2,195 +2,362 @@
 
 # Utsav Kumar
 
-### Software Developer · Incoming Red Hat Developer
+### Incoming Developer @ Red Hat
 
-Building backend systems, developer tools, and AI-powered applications.
+Software · Backend · AI · Open Source
 
+<br/>
+
+<a href="https://github.com/UTSAVKUMAR-22-DEV">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/utsav-kumar-115441291/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:utsavkumar1283@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## 👋 About Me
 
-### 👋 About
-
-I'm Utsav, a Computer Science student who enjoys
-building things that solve practical problems.
+I'm Utsav, a Computer Science student interested in building
+backend systems, developer tools, and AI-powered applications.
 
 Currently:
 
 - 🎓 Computer Science & Business Systems
-- 💻 Incoming Developer @ **Red Hat**
-- 🔧 Interested in backend & systems
-- 🤖 Exploring AI engineering
-- 🌱 Learning through projects and open source
+- 💼 Incoming Developer @ **Red Hat**
+- 💻 Interested in Backend & Systems Engineering
+- 🤖 Exploring AI Engineering
+- 🌱 Learning through Open Source and projects
+- 📍 Bengaluru, India
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/UTSAVKUMAR-22-DEV">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=UTSAVKUMAR-22-DEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/UTSAVKUMAR-22-DEV">
+  <img
+    src="https://streak-stats.demolab.com/?user=UTSAVKUMAR-22-DEV&hide_border=true&theme=transparent"
+    width="48%"
+  />
+</a>
+
+</div>
+
+<br/>
+
+### 🟩 Contribution History
+
+<div align="center">
+
+<a href="https://github.com/UTSAVKUMAR-22-DEV">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=UTSAVKUMAR-22-DEV&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
+</a>
+
+</div>
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/utsav_24_leet/">
+
+<img
+  src="https://leetcode.gasinski.dev/svg/utsav_24_leet?theme=tokyo"
+  width="70%"
+/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/utsav_24_leet/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  />
+</a>
+
+<a href="https://codolio.com/profile/cLSAwCOh">
+  <img
+    src="https://img.shields.io/badge/Codolio-View%20Profile-7C3AED?style=for-the-badge"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Among the Top 1000 Developers Globally on Codolio
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+
+### Languages
+
+Python  
+Java  
+C++  
+JavaScript  
+TypeScript  
+SQL
 
 </td>
 
-<td width="50%">
+<td align="center" width="200">
 
-### 🧭 Navigation
+### Backend
 
-**[About](#-about)**  
-**[What I Work With](#-what-i-work-with)**  
-**[Projects](#-projects)**  
-**[Currently Learning](#-currently-learning)**  
-**[Connect](#-connect)**
+FastAPI  
+Flask  
+Node.js  
+REST APIs  
+Redis  
+Async Processing
 
 </td>
+
+<td align="center" width="200">
+
+### Databases
+
+PostgreSQL  
+MySQL  
+MongoDB  
+Vector Search  
+Full-Text Search
+
+</td>
+
+<td align="center" width="200">
+
+### Infrastructure
+
+Docker  
+AWS  
+Nginx  
+GitHub Actions  
+Linux  
+Git
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="4">
+
+### AI Engineering
+
+LangGraph · LangChain · RAG · LLM APIs · Embeddings · Multi-Agent Systems
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠 What I Work With
+## 🚀 Projects
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>Python · Java · C++ · JavaScript · TypeScript · SQL</td>
-</tr>
 
-<tr>
-<td><b>Backend</b></td>
-<td>FastAPI · Flask · Node.js · REST APIs</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>PostgreSQL · MySQL · MongoDB · Redis</td>
-</tr>
-
-<tr>
-<td><b>Infrastructure</b></td>
-<td>Docker · AWS · Nginx · GitHub Actions · Linux</td>
-</tr>
-
-<tr>
-<td><b>AI</b></td>
-<td>LangGraph · LangChain · RAG · LLM APIs · Multi-Agent Systems</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>Git · GitHub · CI/CD · Testing · Code Review</td>
-</tr>
-</table>
-
----
-
-## 📂 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Multi-Agent Research
-
-A research platform that combines web search,
-retrieval, verification and report generation.
-
-**Focus:**  
-RAG · Agents · Retrieval · Verification
-
-</td>
-
-<td width="50%">
-
-### 🧠 Plasma
-
-A developer-focused platform built across
-frontend, backend and authentication services.
-
-**Focus:**  
-Web Development · APIs · Databases
-
-</td>
-</tr>
-
-<tr>
-<td>
+<td width="50%" valign="top">
 
 ### 🔎 Visum
 
 A website analysis platform that evaluates
 websites across multiple AI-readiness checks.
 
-**Focus:**  
-FastAPI · PostgreSQL · Playwright · AI
+**Focus**
+
+`FastAPI` `PostgreSQL` `Playwright` `Docker`
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🤖 Developer Tools
+### 🤖 Multi-Agent Research
 
-Interested in tools that make software
-development easier, safer and more automated.
+A research platform combining web search,
+retrieval, verification, and report generation.
 
-**Focus:**  
-Automation · Backend · AI Engineering
+**Focus**
+
+`Python` `RAG` `Agents` `Vector Search`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Plasma
+
+A developer platform built across
+frontend, backend, and authentication services.
+
+**Focus**
+
+`JavaScript` `Backend` `APIs`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Developer Tools
+
+Exploring tools that make software development
+more automated, reliable, and easier to maintain.
+
+**Focus**
+
+`Automation` `Backend` `AI`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
+## 🌱 Currently Exploring
+
 <details>
-<summary><b>📚 Currently Learning</b></summary>
+<summary><b>⚙️ Systems & Infrastructure</b></summary>
 
-<br>
+<br/>
 
+- Linux internals
+- Containers
+- Kubernetes
 - Distributed systems
-- Cloud infrastructure
-- Kubernetes & containers
-- Backend architecture
-- Open-source development
-- AI engineering
-- System design
+- Cloud architecture
+- Computer networks
 
 </details>
 
 <details>
-<summary><b>🌱 Open Source</b></summary>
+<summary><b>🤖 AI Engineering</b></summary>
 
-<br>
+<br/>
 
-I’m interested in contributing to projects where I can
-learn from experienced developers and improve the software
-along the way.
+- RAG systems
+- Multi-agent architectures
+- LLM applications
+- Retrieval systems
+- Evaluation
+- AI developer tools
 
-Currently exploring projects around:
+</details>
+
+<details>
+<summary><b>🌐 Open Source</b></summary>
+
+<br/>
+
+Learning how large open-source projects are structured,
+reviewed, developed, and maintained.
+
+Interested in:
 
 - Developer tooling
 - Python
 - Linux
-- Cloud & infrastructure
+- Cloud infrastructure
 - AI/ML
 
 </details>
 
 ---
 
-## 🎯 What I'm Interested In
+## 🏆 Milestones
+
+<table align="center">
+
+<tr>
+<td>🥇</td>
+<td><b>Top 1000</b></td>
+<td>Among the top 1000 developers globally on Codolio</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><b>Problem Solving</b></td>
+<td>Active problem solving across multiple platforms</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td><b>Open Source</b></td>
+<td>Contributed to IPython / Project Jupyter</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Red Hat</b></td>
+<td>Incoming Developer @ Red Hat</td>
+</tr>
+
+</table>
+
+---
+
+## 📚 Learning Path
 
 ```text
-Backend Engineering
-        ↓
-Distributed Systems
-        ↓
-Cloud & Infrastructure
-        ↓
-Developer Tools
-        ↓
-AI Engineering
+                ┌──────────────────┐
+                │ Backend Systems  │
+                └────────┬─────────┘
+                         │
+                         ▼
+              ┌────────────────────┐
+              │ Distributed Systems│
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ Cloud & Kubernetes │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ Developer Tools    │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │  AI Engineering    │
+              └────────────────────┘
