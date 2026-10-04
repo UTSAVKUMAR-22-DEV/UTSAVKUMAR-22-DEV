@@ -6,18 +6,18 @@
 
 Software · Backend · AI · Open Source
 
-<br/>
+<br>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/utsav-kumar-115441291/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:utsavkumar1283@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -28,8 +28,6 @@ Software · Backend · AI · Open Source
 
 I'm Utsav, a Computer Science student interested in building
 backend systems, developer tools, and AI-powered applications.
-
-Currently:
 
 - 🎓 Computer Science & Business Systems
 - 💼 Incoming Developer @ **Red Hat**
@@ -45,45 +43,31 @@ Currently:
 <div align="center">
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=UTSAVKUMAR-22-DEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    width="48%"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=UTSAVKUMAR-22-DEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
 </a>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img
-    src="https://streak-stats.demolab.com/?user=UTSAVKUMAR-22-DEV&hide_border=true&theme=transparent"
-    width="48%"
-  />
+<img src="https://streak-stats.demolab.com/?user=UTSAVKUMAR-22-DEV&hide_border=true&theme=transparent" width="48%">
 </a>
 
 </div>
-
-<br/>
 
 ### 🟩 Contribution History
 
 <div align="center">
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UTSAVKUMAR-22-DEV&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UTSAVKUMAR-22-DEV&theme=github-compact&hide_border=true&area=true" width="100%">
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAVKUMAR-22-DEV&theme=github_dark"
-    width="100%"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAVKUMAR-22-DEV&theme=github_dark" width="100%">
 </a>
 
 </div>
@@ -95,42 +79,31 @@ Currently:
 <div align="center">
 
 <a href="https://leetcode.com/u/utsav_24_leet/">
-  <img
-    src="https://img.shields.io/badge/LEETCODE-utsav__24__leet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/LEETCODE-utsav__24__leet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://codolio.com/profile/cLSAwCOh">
-  <img
-    src="https://img.shields.io/badge/CODOLIO-Developer%20Profile-7C3AED?style=for-the-badge"
-  />
+<img src="https://img.shields.io/badge/CODOLIO-Developer%20Profile-7C3AED?style=for-the-badge">
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <table align="center">
-
 <tr>
 
 <td align="center" width="50%">
 
 ### 🟠 LeetCode
 
-<a href="https://leetcode.com/u/utsav_24_leet/">
-
 **utsav_24_leet**
 
-</a>
+<br><br>
 
-<br/><br/>
+Algorithms · Data Structures · Problem Solving
 
-Practice · Algorithms · Data Structures
-
-<br/><br/>
+<br><br>
 
 <a href="https://leetcode.com/u/utsav_24_leet/">
 View LeetCode Profile →
@@ -142,17 +115,13 @@ View LeetCode Profile →
 
 ### 🟣 Codolio
 
-<a href="https://codolio.com/profile/cLSAwCOh">
-
 **Utsav Kumar**
 
-</a>
-
-<br/><br/>
+<br><br>
 
 🏆 **Among the Top 1000 Developers Globally**
 
-<br/><br/>
+<br><br>
 
 <a href="https://codolio.com/profile/cLSAwCOh">
 View Codolio Profile →
@@ -161,17 +130,7 @@ View Codolio Profile →
 </td>
 
 </tr>
-
 </table>
-
-<br/>
-
-<div align="center">
-
-I practice Data Structures & Algorithms across coding platforms
-and track my progress through Codolio.
-
-</div>
 
 ---
 
@@ -265,9 +224,9 @@ websites across multiple AI-readiness checks.
 
 **Focus**
 
-`FastAPI` `PostgreSQL` `Playwright` `Docker`
+`FastAPI` · `PostgreSQL` · `Playwright` · `Docker`
 
-<br/>
+<br>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
 View GitHub →
@@ -284,9 +243,9 @@ retrieval, verification, and report generation.
 
 **Focus**
 
-`Python` `RAG` `Agents` `Vector Search`
+`Python` · `RAG` · `Agents` · `Vector Search`
 
-<br/>
+<br>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
 View GitHub →
@@ -307,9 +266,9 @@ frontend, backend, and authentication services.
 
 **Focus**
 
-`JavaScript` `Backend` `APIs`
+`JavaScript` · `Backend` · `APIs`
 
-<br/>
+<br>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
 View GitHub →
@@ -326,7 +285,7 @@ more automated, reliable, and easier to maintain.
 
 **Focus**
 
-`Automation` `Backend` `AI`
+`Automation` · `Backend` · `AI`
 
 </td>
 
@@ -339,10 +298,9 @@ more automated, reliable, and easier to maintain.
 ## 🌱 Currently Exploring
 
 <details>
-
 <summary><b>⚙️ Systems & Infrastructure</b></summary>
 
-<br/>
+<br>
 
 - Linux internals
 - Containers
@@ -354,10 +312,9 @@ more automated, reliable, and easier to maintain.
 </details>
 
 <details>
-
 <summary><b>🤖 AI Engineering</b></summary>
 
-<br/>
+<br>
 
 - RAG systems
 - Multi-agent architectures
@@ -369,10 +326,9 @@ more automated, reliable, and easier to maintain.
 </details>
 
 <details>
-
 <summary><b>🌐 Open Source</b></summary>
 
-<br/>
+<br>
 
 Learning how large open-source projects are structured,
 reviewed, developed, and maintained.
@@ -433,84 +389,68 @@ Interested in:
 
 <div align="center">
 
-```text
-Backend Systems
-       │
-       ▼
-Distributed Systems
-       │
-       ▼
-Cloud & Kubernetes
-       │
-       ▼
-Developer Tools
-       │
-       ▼
+Backend Systems  
+↓  
+Distributed Systems  
+↓  
+Cloud & Kubernetes  
+↓  
+Developer Tools  
+↓  
 AI Engineering
 
 </div>
-🔗 Connect
+
+---
+
+## 🔗 Connect
+
 <div align="center">
 
-Let's Connect
+### Let's Connect
+
+<br>
 
 <a href="https://github.com/UTSAVKUMAR-22-DEV">
-  <img
-    src="https://img.shields.io/badge/GitHub-UTSAVKUMAR--22--DEV-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/GitHub-UTSAVKUMAR--22--DEV-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/utsav-kumar-115441291/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Utsav%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-Utsav%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://leetcode.com/u/utsav_24_leet/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-utsav__24__leet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/LeetCode-utsav__24__leet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <a href="https://codolio.com/profile/cLSAwCOh">
-  <img
-    src="https://img.shields.io/badge/Codolio-Profile-7C3AED?style=for-the-badge"
-  />
+<img src="https://img.shields.io/badge/Codolio-Profile-7C3AED?style=for-the-badge">
 </a>
 
 <a href="mailto:utsavkumar1283@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-utsavkumar1283%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Email-utsavkumar1283%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<br><br>
 
-
-
-<a href="https://www.linkedin.com/in/utsav-kumar-115441291/">
-  LinkedIn
-</a>
+<a href="https://github.com/UTSAVKUMAR-22-DEV">GitHub</a>
 &nbsp; · &nbsp;
-<a href="mailto:utsavkumar1283@gmail.com">
-  Email
-</a>
+<a href="https://www.linkedin.com/in/utsav-kumar-115441291/">LinkedIn</a>
 &nbsp; · &nbsp;
-<a href="https://leetcode.com/u/utsav_24_leet/">
-  LeetCode
-</a>
+<a href="https://leetcode.com/u/utsav_24_leet/">LeetCode</a>
 &nbsp; · &nbsp;
-<a href="https://codolio.com/profile/cLSAwCOh">
-  Codolio
-</a>
+<a href="https://codolio.com/profile/cLSAwCOh">Codolio</a>
 &nbsp; · &nbsp;
-<a href="https://github.com/UTSAVKUMAR-22-DEV">
-  GitHub
-</a>
+<a href="mailto:utsavkumar1283@gmail.com">Email</a>
 
 </div>
 
+---
+
 <div align="center">
 
-Thanks for visiting 👋
+### Thanks for visiting 👋
+
 <sub>Building · Learning · Contributing</sub>
+
 </div>
